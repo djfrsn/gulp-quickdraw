@@ -1,6 +1,4 @@
-## Studi˚
-
-[Prototype Gulp task runner](http://studio.dennisjefferson.com) mainly concerned with WP development w/ Studi˚. 
+## Quickdraw
 
 #### Status
 
